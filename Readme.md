@@ -11,6 +11,11 @@ Then, you can run evalue_calculate_toolsname.sh to calculate the evalue of DMRs 
 
 Finally, please run analysis_toolsname.sh to get the evaluation indicator of different methods and different tools.
 
+# Simulation Scripts
+
+Script 1, Data generation: [scripts](./simulation/scripts/simulation.sh)
+
+Script 2, Run simulation: [scripts](./simulation/scripts/run_simulation.sh)
 
 # Structures
 
