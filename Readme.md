@@ -1,6 +1,6 @@
 # Description
 
-This is about the pipeline of data process of 4 different tools.
+This is about the pipeline of data process of 4 different tools (BiSeq, MethylKit, DMRfinder and Metilene).
 
 First, in order to combine the bed data, you should run combine_bed.sh first.
 
@@ -16,6 +16,10 @@ Finally, please run analysis_toolsname.sh to get the evaluation indicator of dif
 Script 1, Data generation: [scripts](./simulation/scripts/simulation.sh)
 
 Script 2, Run simulation: [scripts](./simulation/scripts/run_simulation.sh)
+
+# Real data analysis
+
+The script for real data analysis is here: [scripts](./simulation/scripts/CRL.5mC.e.value.sh)
 
 # Structures
 
