@@ -19,7 +19,7 @@ Script 2, Run simulation: [scripts](./simulation/scripts/run_simulation.sh)
 
 # Real data analysis
 
-The script for real data analysis is here: [scripts](./simulation/scripts/CRL.5mC.e.value.sh)
+The script for real data analysis is here: [scripts](./simulation/tools/CRL.5mC.e.value.sh)
 
 # Structures
 
